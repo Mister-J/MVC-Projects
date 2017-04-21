@@ -1,0 +1,142 @@
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\ApplicationInsights.config
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\roslyn\csc.exe
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\roslyn\csc.exe.config
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\roslyn\csc.rsp
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\roslyn\csi.exe
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\roslyn\csi.rsp
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\roslyn\System.AppContext.dll
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\roslyn\System.Collections.Immutable.dll
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\roslyn\System.IO.FileSystem.dll
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\roslyn\vbc.exe
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\roslyn\vbc.exe.config
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\roslyn\vbc.rsp
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\roslyn\VBCSCompiler.exe
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\roslyn\VBCSCompiler.exe.config
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\SkiWebApplication.dll.config
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\SkiWebApplication.dll
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\SkiWebApplication.pdb
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\Antlr3.Runtime.dll
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\Microsoft.AI.Web.dll
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\Microsoft.AI.WindowsServer.dll
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\Microsoft.ApplicationInsights.dll
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\Microsoft.Web.Infrastructure.dll
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\Newtonsoft.Json.dll
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\System.Web.Helpers.dll
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\System.Web.Mvc.dll
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\System.Web.Optimization.dll
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\System.Web.Razor.dll
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\System.Web.WebPages.Deployment.dll
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\System.Web.WebPages.dll
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\System.Web.WebPages.Razor.dll
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\WebGrease.dll
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\System.Web.Helpers.xml
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\System.Web.Mvc.xml
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\System.Web.Optimization.xml
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\System.Web.Razor.xml
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\System.Web.WebPages.xml
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\System.Web.WebPages.Deployment.xml
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\System.Web.WebPages.Razor.xml
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\Antlr3.Runtime.pdb
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\Newtonsoft.Json.xml
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\Microsoft.ApplicationInsights.xml
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\Microsoft.AI.WindowsServer.xml
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\Microsoft.AI.Web.xml
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\obj\Debug\SkiWebApplication.csprojResolveAssemblyReference.cache
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\obj\Debug\SkiWebApplication.dll
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\obj\Debug\SkiWebApplication.pdb
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\EntityFramework.dll
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\EntityFramework.SqlServer.dll
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\EntityFramework.xml
+c:\users\stuck\documents\visual studio 2017\Projects\SkiWebApplication\SkiWebApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\ApplicationInsights.config
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\roslyn\csc.exe
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\roslyn\csc.exe.config
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\roslyn\csc.rsp
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\roslyn\csi.exe
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\roslyn\csi.rsp
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\roslyn\System.AppContext.dll
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\roslyn\vbc.exe
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\roslyn\vbc.exe.config
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\roslyn\vbc.rsp
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\SkiWebApplication.dll.config
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\SkiWebApplication.dll
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\SkiWebApplication.pdb
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\Antlr3.Runtime.dll
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\EntityFramework.dll
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\Microsoft.AI.Web.dll
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\Newtonsoft.Json.dll
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\System.Web.Helpers.dll
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\System.Web.Mvc.dll
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\System.Web.Optimization.dll
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\System.Web.Razor.dll
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\System.Web.WebPages.dll
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\WebGrease.dll
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\EntityFramework.xml
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\System.Web.Helpers.xml
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\System.Web.Mvc.xml
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\System.Web.Optimization.xml
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\System.Web.Razor.xml
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\System.Web.WebPages.xml
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\Antlr3.Runtime.pdb
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\Newtonsoft.Json.xml
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\bin\Microsoft.AI.Web.xml
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\obj\Debug\SkiWebApplication.csprojResolveAssemblyReference.cache
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\obj\Debug\SkiWebApplication.dll
+C:\Users\Mister J\Desktop\ASP.NET-MVC-Projects-master\ASP.NET-MVC-Projects-master\SkiWebApplication\obj\Debug\SkiWebApplication.pdb
